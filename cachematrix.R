@@ -14,4 +14,4 @@ cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
 }
 
-#testing a commit
+#testing a commit, part 2
